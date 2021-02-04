@@ -5,7 +5,7 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 import java.util.ArrayList;
 import java.util.Arrays;
 
-public class MyTests {
+public class  MyTests {
 
     @Test
     public void testIsSorted() {

@@ -25,7 +25,7 @@ public static boolean hasCountCopies(int[] arr, int x, int count) { }
 
 Finally, implement binary search recursively. Note that the variables that we used for binary search (lowerBound and upperBound) are  **parameters** for the recursive method you have been provided with. 
 
-Your wrapper method should have the follwing signature:
+Your wrapper method should have the following signature:
 
 ```shell script
 public static boolean binarySearch(int[] arr, int num) { }
